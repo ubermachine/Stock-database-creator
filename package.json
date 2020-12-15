@@ -1,0 +1,17 @@
+{
+  "name": "stocks-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sql.js",
+  "dependencies": {
+    "data-forge": "^1.8.12",
+    "data-forge-fs": "^0.0.8",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
