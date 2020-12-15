@@ -5,7 +5,7 @@
   
      npm install
 
- Provide sql.js it path of your data folder where all csv are pesent
+ Provide sql.js  path of your data folder where all csv are pesent
  it will  create a sqlite database with all data which can be sorted by date in sqlite or any other dataframe loader run using npm start or node sql.js  
  
 **warning if you know pandas and python don't waste your time for atleast now our libraries need more work to be fully capable of data crunching with ease**  
