@@ -1,5 +1,5 @@
 ## Quick way to load all csv data in folder to a database  
-Kindly note Linux is used and for windows you might have to do a small change so your path is comaptible ie in linux path is usually "./abc/dat" format while in windows its "C:\\abc\data".
+Kindly note Linux is used,for windows you might have to do a small change in sql.js so your path is compatible ie in linux path is usually "./abc/dat" format while in windows its "C:\\abc\data".
 #### First clone this dir and cd into it then   
   **install:**  
   
